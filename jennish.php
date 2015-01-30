@@ -1,5 +1,5 @@
 <?php
 echo 'Git Testing';
-echo 'New line added';
+echo 'Code modified';
 echo 'New code';
 ?>
